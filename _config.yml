@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            'The Links Report'
 description:      'Handcrafted artisan links by <a href="https://github.com/daniellittledev/">Daniel Little</a>'
-url:              https://links.github.io
+url:              https://daniellittledev.github.io/links/
 future:           true
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -34,7 +34,7 @@ plugins:
 # Custom vars
 sidebar_home_link:  false
 
-google_analytics:
+google_analytics: G-41PXCZ3F8L
 
 feed:
   path: atom.xml
@@ -47,4 +47,4 @@ algolia:
 
 social:
   description: 'Handcrafted artisan links by Daniel Little'
-  domain: 'links.github.io'
+  domain: 'https://daniellittledev.github.io/links/'
