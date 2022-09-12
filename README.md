@@ -1,3 +1,3 @@
-# The Wolf Report
+# The Links Report
 
-Handcrafted artisan links by [Michael Wolfenden](https://github.com/michael-wolfenden/)
+Handcrafted artisan links by [Daniel Little](https://github.com/daniellittledev/)

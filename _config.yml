@@ -7,9 +7,9 @@ remote_theme:     fongandrew/hydeout
 permalink:        pretty
 
 # Setup
-title:            'The Wolf Report 🐺'
-description:      'Handcrafted artisan links by <a href="https://github.com/michael-wolfenden/">Michael Wolfenden</a>'
-url:              https://michael-wolfenden.github.io
+title:            'The Links Report'
+description:      'Handcrafted artisan links by <a href="https://github.com/daniellittledev/">Daniel Little</a>'
+url:              https://links.github.io
 future:           true
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -18,8 +18,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Michael Wolfenden'
-  url:            https://github.com/michael-wolfenden
+  name:           'Daniel Little'
+  url:            https://github.com/daniellittledev
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -30,21 +30,21 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-algolia
-  
+
 # Custom vars
 sidebar_home_link:  false
 
-google_analytics: UA-61219823-1
+google_analytics:
 
 feed:
   path: atom.xml
-  
+
 algolia:
-  application_id: F8F81NE13K
+  application_id: BSLW1CYPLE
   index_name: jekyll
-  search_only_api_key: 0e3cfa04f899b670107857e7c965f5c5
+  search_only_api_key: 4358c506a01c33061176537a4a026b2b
   nodes_to_index: li
 
 social:
-  description: 'Handcrafted artisan links by Michael Wolfenden'
-  domain: 'michael-wolfenden.github.io'
+  description: 'Handcrafted artisan links by Daniel Little'
+  domain: 'links.github.io'
